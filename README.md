@@ -10,8 +10,7 @@ Duration:July to August 2024
 
 Mentor:Muzammil
 
-Overview of the Project:
-Project: EXPLORATORY DATA ANALYSIS (EDA)
+Overview of the Project: Project: PREDICTIVE MODELING WITH LINEAR REGRESSION
 
 ![image](https://github.com/user-attachments/assets/9edd97b8-c78f-498e-b9d6-35d103d84b1e)
 ![image](https://github.com/user-attachments/assets/91b1da52-0fbb-410e-9c4f-3bb1b62fabfe)
