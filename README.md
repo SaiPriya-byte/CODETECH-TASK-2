@@ -11,11 +11,12 @@ Duration:July to August 2024
 Mentor:Muzammil
 
 Overview of the Project:
-
 Project: EXPLORATORY DATA ANALYSIS (EDA)
+
 ![image](https://github.com/user-attachments/assets/9edd97b8-c78f-498e-b9d6-35d103d84b1e)
 ![image](https://github.com/user-attachments/assets/91b1da52-0fbb-410e-9c4f-3bb1b62fabfe)
 ![image](https://github.com/user-attachments/assets/547b53e3-afd8-44c2-a096-eec6e1e47778)
+
 Objectives:
 
 *Implement a simple linear regression model using a dataset with continuous target variables.
